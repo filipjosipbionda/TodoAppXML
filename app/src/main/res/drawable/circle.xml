@@ -1,0 +1,14 @@
+<!-- res/drawable/circle_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <solid android:color="@color/material_dynamic_primary0"/> <!-- Boja kruga -->
+
+    <size
+        android:width="30dp"
+        android:height="30dp"/> <!-- Dimenzije kruga -->
+
+    <stroke
+        android:width="2dp"
+        android:color="@color/md_theme_background"/> <!-- Opcionalno: Dodavanje obruba -->
+</shape>

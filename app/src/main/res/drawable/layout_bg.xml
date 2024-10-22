@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/md_theme_primaryContainer" />
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/black" /> <!-- Default color, can be changed -->
+    <corners android:radius="4dp" />
+</shape>

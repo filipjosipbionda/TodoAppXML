@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/td_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:background="@android:color/transparent"
+    android:paddingLeft="10dp"
+    android:textAppearance="@style/TextAppearance.Material3.BodyMedium"
+    android:textColor="@color/md_theme_onBackground"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:text="Today">
+
+</TextView>
